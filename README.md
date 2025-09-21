@@ -38,8 +38,8 @@ Currently focusing on **state-space modeling, efficient algorithms, and full-sta
 ---
 
 ## 📈 GitHub Activity & Stats
-### Contribution Graph
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=Yousra-Ga&theme=react-dark&hide_border=true)
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yousra-Ga&theme=tokyonight)
 
 ### GitHub Stats
 ![Yousra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousra-Ga&show_icons=true&theme=tokyonight)  
