@@ -44,7 +44,7 @@ Currently focusing on **state-space modeling, efficient algorithms, and full-sta
 ### GitHub Stats
 ![Yousra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousra-Ga&show_icons=true&theme=tokyonight)  
 
-### Top Languages
+### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra-Ga&layout=compact&theme=tokyonight)
 
 ---
